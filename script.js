@@ -1,4 +1,3 @@
-
 function myrandom(){
 var input1= document.getElementById("choice1").checked;
 var input2= document.getElementById("choice2").checked;
